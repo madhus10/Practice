@@ -18,5 +18,9 @@ public class SearchPage {
 	public void test2() {
 		System.out.println("Test2 printed");
 	}
+	@Test
+	public void test3() {
+		System.out.println("Test3 printed");
+	}
 
 }
