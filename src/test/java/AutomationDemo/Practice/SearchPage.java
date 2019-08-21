@@ -10,6 +10,10 @@ public class SearchPage {
 		public void test() {
 			System.out.println("Test printed");
 		}
+	@Test
+		public void test1() {
+			System.out.println("Test1 printed");
+		}
 
 	}
 
